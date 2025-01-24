@@ -1,0 +1,7 @@
+env:
+  DBT_PROJECT_DIR: C:/Users/USER/Documents/Dbt_projects/MESAGAN_PROJECTS
+  DBT_PROFILES_DIR: C:/Users/USER/.dbt
+  DBT_GCP_JSON_KEY_FILE_LOCATION: C:/Users/USER/Downloads/Telegram Desktop/dbt-tutorial-mesagan-a39f8d7a3b3b.json
+  DBT_GCP_JSON_KEY_FILE: ${{ secrets.dbt-tutorial-mesagan-a39f8d7a3b3b.json }}
+
+  
