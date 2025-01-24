@@ -5,7 +5,6 @@ on:
       - main
   pull_request:
     branches: [ main ]
-
  env:
    DBT_PROJECT_DIR: C:/Users/USER/Documents/Dbt_projects/MESAGAN_PROJECTS
    DBT_PROFILES_DIR: C:/Users/USER/.dbt
